@@ -2,8 +2,12 @@ Hi
 
 This is my git practicing
 
+<<<<<<< HEAD
 adafafafafafa
 
 ##Local Development
 This is for branch instructions
 
+=======
+adafafafafafag
+>>>>>>> master
